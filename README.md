@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # ejercicio5
 =======
 # ejercicio5
@@ -8,3 +9,5 @@
 >>>>>>> parent of ab2c816 (Update README.md)
 jkjkjkjkjkjkjkjkjkjkjkjk
 lñ{lk{}}
+=======
+>>>>>>> parent of ab2c816 (Update README.md)
